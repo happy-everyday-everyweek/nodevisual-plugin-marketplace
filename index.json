@@ -1,1 +1,1 @@
-{"version":1,"name":"NodeVisual Plugin Marketplace","plugins":[]}
+{"version":1,"name":"NodeVisual Plugin Marketplace","plugins":[{"id":"ip_info","displayName":"IP 地址查询","description":"通过 ip-api.com 查询 IP 地址的地理位置信息","version":"1.0.0","author":"NodeVisual","repoUrl":"https://github.com/happy-everyday-everyweek/nodevisual-plugin-ipinfo","branch":"main","tags":["ip","location","api"],"icon":"http","downloads":0}]}
